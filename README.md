@@ -63,7 +63,9 @@ MRI Brain Scans Dataset: [Kaggle Dataset](https://www.kaggle.com/datasets/navone
 
 ## 📸 Sample Output
 
-> *(You can insert an image of your confusion matrix or prediction here)*
+> <img width="430" height="418" alt="image" src="https://github.com/user-attachments/assets/b12a7ca2-2bd0-4553-9112-49c1d350889e" />
+
+<img width="425" height="418" alt="image" src="https://github.com/user-attachments/assets/6ea07c70-2d87-48bb-8146-12a4e8e66a2e" />
 
 ---
 
