@@ -69,6 +69,12 @@ MRI Brain Scans Dataset: [Kaggle Dataset](https://www.kaggle.com/datasets/navone
 
 ---
 
+## 🚀 Open in Google Colab
+
+Click below to run the notebook instantly:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kek0pVVCr7Sn4u0zFiTErzdUcgwZgNTg)
+
 ## ✨ Future Work
 
 - Try deep learning with CNNs for better accuracy
